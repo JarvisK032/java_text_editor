@@ -10,7 +10,7 @@ I create the app to help people to take notes and save the notesd.
 
 The link below is a walkthrough of the code.
 
-[Wlkthrough Video](https://youtu.be/GIgEI-bb8h4)
+[Walkthrough Video](https://youtu.be/GIgEI-bb8h4)
 
 # Development Environment
 
